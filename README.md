@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @tjptak58
-- 👀 I’m interested in audio tech and the applications of CS in Science
-- 🌱 I’m currently learning java and python
-- 💞️ I’m looking to collaborate on audio tech
+#Hello!
+My name's TJ Ptak and I'm a Junior at Purdue University studying computer science. My biggest interests are web development and systems programming. Outside of classes and internships, I like programming audio applications using Javascript and C++. It's a great way to practice technical concepts while doing something I'm passionate about.
 
-<!---
-tjptak58/tjptak58 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+##Internships
+| Header | Title |
+| Paragraph | Text |
